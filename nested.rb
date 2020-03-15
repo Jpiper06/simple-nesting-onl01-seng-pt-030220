@@ -143,11 +143,8 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-
+programmer_hash[:dennis_richie][:languages] << "Assembly"
+programmer_hash
 end
-  programmer_hash[:dennis_richie][:languages] << "Assembly"
-  programmer_hash 
-  
-  emd 
-  
+
   adding_to_dennis 
